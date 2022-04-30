@@ -1,4 +1,4 @@
-## Compile
+### Compile
 make
 
 ### Generate sat instance
