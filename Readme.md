@@ -8,6 +8,9 @@
 
 
 F : Number of factorys
+
 W : Number of workers
+
 J : Number of jobs
+
 PR: The probility of a worker can do a job
