@@ -1,3 +1,6 @@
+## Compile
+make
+
 ### Generate sat instance
 
 ./sat_generator.sh $F $W $J $PR
